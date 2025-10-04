@@ -4,6 +4,10 @@ A modern, feature-rich text editor built with [Lexical](https://lexical.dev/), R
 
 ![Editor Preview](https://img.shields.io/badge/React-19.1-blue) ![Lexical](https://img.shields.io/badge/Lexical-0.36-purple) ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)
 
+## Live link
+
+https://sri-rich-text-editor.vercel.app/
+
 ## ✨ Features
 
 ### 🎨 Rich Text Formatting
